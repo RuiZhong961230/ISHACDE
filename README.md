@@ -14,15 +14,14 @@ This paper proposes a novel Independent Success History Adaptation Competitive D
 
 ## Citation
 @article{Zhong:25,  
-title = {Space Mission Trajectory Optimization via Competitive Differential Evolution with Independent Success History Adaptation},  
+title = {Space mission trajectory optimization via competitive differential evolution with independent success history adaptation},  
 journal = {Applied Soft Computing},  
-volume = {},  
-pages = {},  
+volume = {171},  
+pages = {112777},  
 year = {2025},  
 issn = {1568-4946},  
-doi = {},  
+doi = {https://doi.org/10.1016/j.asoc.2025.112777 },  
 author = {Rui Zhong and Abdelazim G. Hussien and Shilong Zhang and Yuefeng Xu and Jun Yu},  
-note = {Accepted}  
 }
 
 ## Datasets and Libraries
