@@ -25,5 +25,7 @@ author = {Rui Zhong and Abdelazim G. Hussien and Shilong Zhang and Yuefeng Xu an
 }
 
 ## Datasets and Libraries
-CEC benchmarks and Engineering problems are provided by opfunu and enoppy libraries, respectively, and GTOPX can be found at M. Schlueter, M. Neshat, M. Wahib, M. Munetomo, M. Wagner, Gtopx space mission benchmarks, SoftwareX 14 (2021) 100666 and https://github.com/ElsevierSoftwareX/SOFTX-D-20-00072.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively. GTOPX can be found at M. Schlueter, M. Neshat, M. Wahib, M. Munetomo, M. Wagner, Gtopx space mission benchmarks, SoftwareX 14 (2021) 100666 and https://github.com/ElsevierSoftwareX/SOFTX-D-20-00072.
 
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
